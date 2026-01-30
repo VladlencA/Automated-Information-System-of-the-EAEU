@@ -4,8 +4,7 @@ Here you can find a prototype web platform for automating the EAEU certification
 
 ## How to start?
 
-Open your Terminal and print:
-- Download ais-aeeu.xcomps.ru.zip and open the file index.html
+Download ais-aeeu.xcomps.ru.zip and open the file index.html
 
 ## Screenshots
 
